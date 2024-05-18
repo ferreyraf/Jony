@@ -5,7 +5,7 @@
 ### 	    BORRANDO ESOS CARACTERES	     ###
 ################################################
 
-	git clone <url>				//Con este comando copias todo lo que esta en un repositorio y te lo guarda en tu pc de manera remota
+	git clone <url>											//Con este comando copias todo lo que esta en un repositorio y te lo guarda en tu pc de manera remota
 
 	git config --global user.name "<Nombre>" 				//Configurar Nombre que salen en los commits
 	git config --global user.email <dasdo1@gmail.com>		//Configurar Email
