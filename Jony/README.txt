@@ -12,3 +12,4 @@ git config --global user.email <dasdo1@gmail.com>	//Configurar Email
 
 Despues de configurar como vas a aparecer en los cambios podes trabajar.
 
+PASSWORD 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
